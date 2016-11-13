@@ -142,6 +142,7 @@ lumifile.write("END")
 lumifile.close()
 
 os.system("rm golden_BG.txt")
+os.system("rm ellumi.log")
 
 
 
